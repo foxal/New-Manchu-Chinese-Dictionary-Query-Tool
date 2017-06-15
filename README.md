@@ -1,7 +1,7 @@
 New-Manchu-Chinese-Dictionary-Query-Tool
 ==========
 
-> Hitoshi Kuribayashi launched a online dictionary ([満洲語辞典](http://hkuri.cneas.tohoku.ac.jp/guide/p06/)) in early 2017 which provides item and full text search of 新滿漢大詞典 and 滿漢大辞典. There are also other searchable electronic Manchu-Chinese dictionaries such as the Anami dictionary on iOS. Therefore, this tool becomes less useful now. 
+> Hitoshi Kuribayashi launched an online dictionary ([満洲語辞典](http://hkuri.cneas.tohoku.ac.jp/guide/p06/)) in early 2017 (?) which provides item and full text search of 新滿漢大詞典 and 滿漢大辞典. There are also other searchable electronic Manchu-Chinese dictionaries such as the Anami dictionary on iOS. As a result, this tool has become less useful. 
 
 
 This tool provides fast querying for the A Comprehensive Manchu-Chinese Dictionary (《新滿漢大詞典》). 
