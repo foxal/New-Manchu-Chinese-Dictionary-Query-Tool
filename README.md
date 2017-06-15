@@ -1,6 +1,12 @@
 New-Manchu-Chinese-Dictionary-Query-Tool
 ==========
 
+Hitoshi Kuribayashi launched a online dictionary ([満洲語辞典](http://hkuri.cneas.tohoku.ac.jp/guide/p06/)) in early 2017 which provides item and full text search of 新滿漢大詞典 and 滿漢大辞典. There are also other searchable electronic Manchu-Chinese dictionaries such as the Anami dictionary on iOS. Therefore, this tool becomes less useful now. 
+
+This tool provides fast querying for the A Comprehensive Manchu-Chinese Dictionary (《新滿漢大詞典》). 
+
+For a beginner who does not know the meaning of most words in Manchu texts, it can be quite time-consuming to look up those words in a paper-based dictionary.  Even a scholar with considerable ability in reading Manchu may encounter new words in Manchu primary resources. Written in python, this small tool can save a lot of time by telling the user the location of a word in the two dictionaries, or presenting the exact page directly to the user (a PDF reader is required for this function).
+
 基本使用方法：
 運行dict.exe，輸入要查找的單詞。拉丁轉寫暫時遵循《新滿漢大詞典》的規定（不是很好，有待改進）。
 
