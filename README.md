@@ -18,4 +18,4 @@ For a beginner who does not know the meaning of most words in Manchu texts, it c
 
 請使用settings.ini開啓或關閉功能2與功能3。若無法正確設置使用第三方pdf瀏覽軟件，則關閉功能2。設置方法詳見settings.ini文件內註釋。
 
-By Yize Hu, yizehu@gmail.com, 27/5/2014. Written with python 2.7.
+By Yize Hu, 27/5/2014. Written with python 2.7.
